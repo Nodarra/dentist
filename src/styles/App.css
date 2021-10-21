@@ -1,0 +1,9 @@
+.shadow{
+    position: absolute;
+    background-color: #4A99D3;
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(74,153,211,1) 100%);
+    z-index: -1;
+    opacity: 0.3;
+    height: 50vh;
+    width: 100%;
+}
