@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 4em;
+    width: 80%;
+    margin: 0 auto;
+    background: transparent;
+}
+
+.logo__container{
+    padding: 1em 0em;
+    font-size: 2em;
+    font-weight: bold;
+    color: #4A99D3;
+}
+
+.nav__link__container{
+    display: flex;
+    justify-content: space-around;
+    padding: 2em 0em;
+}
+
+.nav__link{
+    padding: 0em 1.5em;
+}
