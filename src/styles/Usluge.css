@@ -91,7 +91,7 @@ body{
     width: auto;
     cursor: pointer;
     height: 25px;
-   font-family: Montserrat;
+
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
@@ -99,6 +99,7 @@ body{
      text-align: right;
      text-decoration: none;
      color: #007AE9;
+
     
 }
 
