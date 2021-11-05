@@ -20,7 +20,7 @@ import '../styles/Usluge.css'
                         dovodi sve najmodernije iz svijeta stomatologije. Danas ortodontsku terapiju 
                         vršimo kod pacijenata u svakoj životnoj dobi, a ne samo kod djece...</p>
                         <div className="visee">
-                        <a href="#" className="vise">Pročitaj više</a>
+                        <a href="_blank" className="vise">Pročitaj više</a>
                         </div>
                     </div>
                 </div>
@@ -34,7 +34,7 @@ import '../styles/Usluge.css'
                       bezubih čeljusti na 4 implantata All–on–four i sve vrste proteza. Radimo sve vrste protetskih
                        radova koji se rade i u najvećim klinikama u svijetu...</p>
                        <div className="visee">
-                        <a href="#" className="vise">Pročitaj više</a>
+                        <a href="_blank" className="vise">Pročitaj više</a>
                         </div>
                     </div>
                 </div>

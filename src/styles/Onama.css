@@ -1,0 +1,32 @@
+.onama{
+    position: relative;
+}
+
+.shadow__two{
+    z-index: -1;
+    background-color: #4A99D3;
+    opacity: 0.3;
+    position: absolute;
+    bottom: 0;
+    height: 60%;
+    width: 100%;
+}
+
+.onama__inner{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.onama__heading{
+    text-align: center;
+    position: relative;
+    top: 15%;
+}
+
+.onama__description{
+    position: relative;
+    top: 40%;
+    font-size: 1.2em;
+    line-height: 40px;
+}

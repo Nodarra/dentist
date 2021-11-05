@@ -1,22 +1,27 @@
 .pocetna{
-
+    height: 100vh;
 }
 
 .pocetna__inner{
-    padding-top: 2em;
     display: flex;
     width: 80%;
     margin: 0 auto;
+    height: 100%;
 }
 
 .heading{
     flex: 1;
 }
 
+.heading__inner{
+    position: relative;
+    top: 40%;
+    transform: translateY(-50%);
+}
+
 h1{
     font-size: 4em;
     color: #4A99D3;
-    padding-top: 2em;
     margin: 0;
 }
 
@@ -24,10 +29,16 @@ h1{
     flex: 1;
 }
 
+.heading__img{
+    position: absolute;
+    bottom: 0;
+    right: 5%;
+}
+
 .contact__btn{
     background-color: #4A99D3;
     color: #fff;
-    width: 50%;
+    width: 30%;
     text-align: center;
     margin-top: 30px;
     padding: 3px 0px;
